@@ -10,8 +10,8 @@ module.exports = {
       lg: "1440px",
     },
     container: {
-      center: true,
-      padding: "1rem",
+      // center: true,
+      // padding: "1rem",
     },
     extend: {
       fontFamily: {
